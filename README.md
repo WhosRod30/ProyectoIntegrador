@@ -14,7 +14,7 @@ Sistema de gestión integral para granjas avícolas desarrollado en Java Swing c
 
 ## 🛠️ Tecnologías
 
-- **Java 22** - Lenguaje principal
+- **Java 21** - Lenguaje principal
 - **Swing + FlatLaf** - Interfaz gráfica moderna
 - **MySQL** - Base de datos
 - **Maven** - Gestión de dependencias
@@ -25,7 +25,7 @@ Sistema de gestión integral para granjas avícolas desarrollado en Java Swing c
 
 ### Prerrequisitos
 
-- Java 22 JDK
+- Java 21 JDK
 - MySQL 8.0+
 - Maven 3.8+
 
