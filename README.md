@@ -34,8 +34,8 @@ Sistema de gestión integral para granjas avícolas desarrollado en Java Swing c
 1. **Clonar el repositorio**
 
    ```bash
-   git clone https://github.com/FrankoFPM/integrador-avicola.git
-   cd integrador-avicola
+   git clone https://github.com/WhosRod30/ProyectoIntegrador.git
+   cd ProyectoIntegrador
    ```
 
 2. **Configurar base de datos**
