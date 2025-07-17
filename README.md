@@ -41,7 +41,7 @@ Sistema de gestión integral para granjas avícolas desarrollado en Java Swing c
 2. **Configurar base de datos**
 
    ```sql
-   CREATE DATABASE integrador_avicola;
+   CREATE DATABASE bdintegrador;
    -- Ejecutar scripts SQL incluidos en /database
    ```
 
